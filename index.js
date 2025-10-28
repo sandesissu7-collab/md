@@ -71,7 +71,7 @@ console.log('Bot connected to whatsapp ✅')
 
 let up = `	QUEEN-MAYA-MD connected successful \nPREFIX: ${prefix}\n 👉 VERSION - 1.00\n 👉 OWNER - Sandes Isuranda\n 👉 MODE - STILL DEVLOPING \n *QUEEN-MAYA-〽️D* A multi device WhatsApp bot created using node.js by MR.ISSU .`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/4bc81k.png` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://dbv5.pages.dev/IMG-20251006-WA0078.jpg` }, caption: up })
 
 }
 })
