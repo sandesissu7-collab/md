@@ -41,7 +41,7 @@ console.log(e)
 
 //===========menu========
 cmd({
-    pattern: "menu",
+    pattern: "menu2",
     desc: "To get the menu.",
     react: "📁",
     category: "main",
