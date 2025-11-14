@@ -15,7 +15,7 @@ cmd({
       return reply("❌ Please provide a valid Instagram link.");
     }
     await conn.sendMessage(from, { react: { text: "⏳", key: m.key } });
-    const response = await axios.get(`https:                                                
+    const response = await axios.get(`https://api.davidcyriltech.my.id/instagram?url=${q}`)                                           
     const data = response.data;
     if (!data || data.status !== 200 || !data.downloadUrl) {
       return reply("⚠️ Failed to fetch Instagram video. Please check the link and try again.");
