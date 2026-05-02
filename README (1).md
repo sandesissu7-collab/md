@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Header with Gradient Background -->
-<img src="" />
+<img src="https://upld.zone.id/uploads/d4i0x5iq/sandes-md-v2.webp" />
 
 <!-- Brand Logo -->
 <a href="https://asitha.top">
