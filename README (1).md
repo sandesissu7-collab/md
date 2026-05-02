@@ -3,8 +3,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="transform: rotate(180deg);">
 
 <!-- Brand Logo -->
-<a href="https://asitha.top">
-  <img src="https://upld.zone.id/uploads/d4i0x5iq/sandes-md-v2.webp" alt="Brand Logo" border="2">
+<a href="https://sandes-md.zone.id">
+  <img src="https://upld.zone.id/uploads/d4i0x5iq/sandes-md-v2.webp" alt="Brand Logo" width="700px">
 </a>
 
 <!-- Typing Banner -->
@@ -59,7 +59,7 @@
 
 <!-- Deploy Section -->
 <div align="center" style="margin-top:40px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=8E44AD,FFD700,2ECC71,00CED1&center=true&vCenter=true&width=700&height=50&lines=⚡+Deploy+ASITHA-MD+in+Seconds;🔥+No+Coding+Required;🚀+Start+Your+Bot+Instantly&gradient=true" alt="Deploy Banner">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=8E44AD,FFD700,2ECC71,00CED1&center=true&vCenter=true&width=700&height=50&lines=⚡+Deploy+SANDES-MD+Now;🔥+No+Coding+Required;🚀+Start+Your+Bot+Instantly&gradient=true" alt="Deploy Banner">
   <br><br>
   <a href="https://dashboard.heroku.com/new?template=https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Deploy%20on%20Heroku-8E44AD?style=for-the-badge&logo=heroku&logoColor=white" height="65">
