@@ -35,7 +35,7 @@
   </a>
 </div>
 <div align="center">
-  <p><b>Pair and Get The Session ID 🔮/</b></p>
+  <p><b>Pair and Get The Session ID 🔮</b></p>
   <a href="https://sandes-md.zone.id" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Session-2ECC71?style=for-the-badge&logo=whatsapp&logoColor=white" height="55">
   </a>
@@ -59,7 +59,7 @@
 
 <!-- Deploy Section -->
 <div align="center" style="margin-top:40px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=8E44AD,FFD700,2ECC71,00CED1&center=true&vCenter=true&width=700&height=50&lines=+Deploy+SANDES-MD+Now 🦋;+No+Coding+Required 💢;🎀+Run+Your+Bot+Now&gradient=true" alt="Deploy Banner">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=8E44AD,FFD700,2ECC71,00CED1&center=true&vCenter=true&width=700&height=50&lines=+Deploy+SANDES-MD+Now+🦋;+No+Coding+Required+💢;🎀+Run+Your+Bot+Now&gradient=true" alt="Deploy Banner">
   <br><br>
   <a href="https://dashboard.heroku.com/new?template=https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/🟣 %20Deploy%20on%20Heroku-8E44AD?style=for-the-badge&logo=heroku&logoColor=white" height="65">
@@ -104,9 +104,9 @@ MR.SANDES 🍒 — the lead developer of this project.
 <tr>
 <td align="center">
 <a href="https://github.com/sandesissu7-collab">
-<img src="https://files.catbox.moe/hmao6h.jpg" width="80px;" style="border-radius:50%;" alt="Rexx"/>
+<img src="https://upld.zone.id/uploads/d4i0x5iq/sandes-md-v2.webp" width="80px;" style="border-radius:50%;" alt="Sandes"/>
 <br />
-<sub><b>MR.SANDES [ DEVELOPER AND FOUNDER ]</b></sub>
+<sub><b>MR.SANDES 🍒</b></sub>
 </a>
 </td>
 <!-- Footer -->
