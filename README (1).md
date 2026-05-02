@@ -59,21 +59,56 @@
 
 <!-- Deploy Section -->
 <div align="center" style="margin-top:40px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=8E44AD,FFD700,2ECC71,00CED1&center=true&vCenter=true&width=700&height=50&lines=⚡+Deploy+SANDES-MD+Now;🔥+No+Coding+Required;🚀+Start+Your+Bot+Instantly&gradient=true" alt="Deploy Banner">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=8E44AD,FFD700,2ECC71,00CED1&center=true&vCenter=true&width=700&height=50&lines=+Deploy+SANDES-MD+Now 🦋;+No+Coding+Required;🎀+Run+Your+Bot+Now ⏰&gradient=true" alt="Deploy Banner">
   <br><br>
   <a href="https://dashboard.heroku.com/new?template=https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Deploy%20on%20Heroku-8E44AD?style=for-the-badge&logo=heroku&logoColor=white" height="65">
+    <img src="https://img.shields.io/badge/🟣 %20Deploy%20on%20Heroku-8E44AD?style=for-the-badge&logo=heroku&logoColor=white" height="65">
   </a>
   &nbsp;&nbsp;
   <a href="https://railway.app?referralCode=queen-elisa" target="_blank">
-    <img src="https://img.shields.io/badge/⚡%20Deploy%20on%20Railway-4169E1?style=for-the-badge&logo=railway&logoColor=white" height="65">
+    <img src="https://img.shields.io/badge/🚇%20Deploy%20on%20Railway-4169E1?style=for-the-badge&logo=railway&logoColor=white" height="65">
   </a>
   &nbsp;&nbsp;
   <a href="https://replit.com/" target="_blank">
-    <img src="https://img.shields.io/badge/💻%20Deploy%20on%20Replit-FF6F00?style=for-the-badge&logo=replit&logoColor=white" height="65">
+    <img src="https://img.shields.io/badge/🔴 %20Deploy%20on%20Replit-FF6F00?style=for-the-badge&logo=replit&logoColor=white" height="65">
   </a>
 </div>
 
+---
+
+🐞 Found a Bug?
+If you encounter a bug or any issues while using this project, please choose one of the following options:
+
+Open an Issue via the official website (coming soon)
+
+Contact the maintainer directly via WhatsApp
+
+<p align="center">
+<a href="https://wa.me/94787518010" target="_blank" rel="noopener noreferrer">
+<img
+alt="Chat on WhatsApp"
+src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+/>
+</a>
+</p>
+
+<details>
+<summary>🎀 <strong>Special Thanks to</strong></summary>
+
+Thanks to everyone who has provided support, inspiration, and contributions—both directly and indirectly—to the development of this project:
+
+MR.SANDES 🍒 — the lead developer of this project.
+
+</details>
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/sandesissu7-collab">
+<img src="https://files.catbox.moe/hmao6h.jpg" width="80px;" style="border-radius:50%;" alt="Rexx"/>
+<br />
+<sub><b>MR.SANDES [ DEVELOPER AND FOUNDER ]</b></sub>
+</a>
+</td>
 <!-- Footer -->
 <div align="center">
 
