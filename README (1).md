@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Hero Header with Gradient Background -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="transform: rotate(180deg);">
 
 <!-- Brand Logo -->
 <a href="https://asitha.top">
@@ -9,7 +9,7 @@
 
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=8E44AD,9B59B6,AF7AC5,BB8FCE&center=true&vCenter=true&width=900&height=70&lines=🚀+SANDES+MD+V2;⚡+Lightning+Fast+Response;✨+Next+Genaration's +UI;🌟+Simple+%26+Powerful+to+Use&gradient=true" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=8E44AD,9B59B6,AF7AC5,BB8FCE&center=true&vCenter=true&width=900&height=70&lines=🚀+SANDES+MD+V2;⚡+Lightning+Fast+Response;✨+Next+Genaration+UI;🌟+Simple+%26+Powerful+to+Use&gradient=true" alt="Typing Animation">
 </p>
 
 <!-- Badges -->
@@ -76,6 +76,8 @@
 
 <!-- Footer -->
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="transform: rotate(180deg);">
   
   <p><b>© 2026 SANDES MD | MADE BY MR.SANDES 🍒 | ALL CEDITS WILL GOTO MR.SANDES 🍒</b></p>
 </div>
