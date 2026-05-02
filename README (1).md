@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Hero Header with Gradient Background -->
-<img src="https://upld.zone.id/uploads/d4i0x5iq/sandes-md-v2.webp" />
 
 <!-- Brand Logo -->
 <a href="https://asitha.top">
@@ -10,7 +9,7 @@
 
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=8E44AD,9B59B6,AF7AC5,BB8FCE&center=true&vCenter=true&width=900&height=70&lines=🚀+ASITHA+MD+V5;⚡+Fast+Fast+Performance;✨+World's+Best+WhatsApp+Bot;🌟+Simple+%26+Powerful+to+Use&gradient=true" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=8E44AD,9B59B6,AF7AC5,BB8FCE&center=true&vCenter=true&width=900&height=70&lines=🚀+SANDES+MD+V2;⚡+Lightning+Fast+Response;✨+Next+Genaration's +UI;🌟+Simple+%26+Powerful+to+Use&gradient=true" alt="Typing Animation">
 </p>
 
 <!-- Badges -->
@@ -36,7 +35,7 @@
   </a>
 </div>
 <div align="center">
-  <p><b>🔑 Get The Session ID</b></p>
+  <p><b>Pair and Get The Session ID 🔮/</b></p>
   <a href="https://sandes-md.zone.id" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Session-2ECC71?style=for-the-badge&logo=whatsapp&logoColor=white" height="55">
   </a>
@@ -45,15 +44,15 @@
 <!-- Features Section -->
 <div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:25px; margin-top:25px;">
   <div style="background:#6A0DAD; color:white; padding:25px; border-radius:20px; width:270px; box-shadow:0px 8px 20px rgba(0,0,0,0.25); transition:0.3s; font-size:15px; text-align:center;">
-    <h3>🚀 Lightning Fast</h3>
+    <h3>Lightning Fast ⚡</h3>
     <p>Ultra-fast responses with near-zero delay.</p>
   </div>
   <div style="background:#8E44AD; color:white; padding:25px; border-radius:20px; width:270px; box-shadow:0px 8px 20px rgba(0,0,0,0.25); transition:0.3s; font-size:15px; text-align:center;">
-    <h3>🛡️ Military Grade Security</h3>
+    <h3>Ultimate Protection 😌</h3>
     <p>End-to-end encrypted with robust privacy features.</p>
   </div>
   <div style="background:#9B59B6; color:white; padding:25px; border-radius:20px; width:270px; box-shadow:0px 8px 20px rgba(0,0,0,0.25); transition:0.3s; font-size:15px; text-align:center;">
-    <h3>🎨 Next-Gen UI</h3>
+    <h3>Next-Genaration's UI 🌝</h3>
     <p>Sleek, modern, and super intuitive interface.</p>
   </div>
 </div>
@@ -77,8 +76,8 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="" />
-  <p><b>© 2025 ASITHA-MD V5 | Made with 💝 by MR ASITHA & Ayooh_XD</b></p>
+  
+  <p><b>© 2026 SANDES MD | MADE BY MR.SANDES 🍒 | ALL CEDITS WILL GOTO MR.SANDES 🍒</b></p>
 </div>
 
 </div>
