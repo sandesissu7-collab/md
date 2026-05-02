@@ -9,7 +9,7 @@
 
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=8E44AD,9B59B6,AF7AC5,BB8FCE&center=true&vCenter=true&width=900&height=70&lines=🚀+SANDES+MD+V2;⚡+Lightning+Fast+Response;✨+Next+Genaration+UI;🌟+Simple+%26+Powerful+to+Use&gradient=true" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&pause=1000&color=8E44AD,9B59B6,AF7AC5,BB8FCE&center=true&vCenter=true&width=900&height=70&lines=🔮+SANDES+MD+V2;⚡+Lightning+Fast+Response;✨+Next+Genaration+UI;🧨+Eazy+%26+For+any+user+to+Use&gradient=true" alt="Typing Animation">
 </p>
 
 <!-- Badges -->
@@ -59,7 +59,7 @@
 
 <!-- Deploy Section -->
 <div align="center" style="margin-top:40px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=8E44AD,FFD700,2ECC71,00CED1&center=true&vCenter=true&width=700&height=50&lines=+Deploy+SANDES-MD+Now 🦋;+No+Coding+Required;🎀+Run+Your+Bot+Now ⏰&gradient=true" alt="Deploy Banner">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=8E44AD,FFD700,2ECC71,00CED1&center=true&vCenter=true&width=700&height=50&lines=+Deploy+SANDES-MD+Now 🦋;+No+Coding+Required 💢;🎀+Run+Your+Bot+Now&gradient=true" alt="Deploy Banner">
   <br><br>
   <a href="https://dashboard.heroku.com/new?template=https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/🟣 %20Deploy%20on%20Heroku-8E44AD?style=for-the-badge&logo=heroku&logoColor=white" height="65">
