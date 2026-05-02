@@ -21,10 +21,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/nbbb15092/abc?style=for-the-badge&logo=github&color=FFD700">
-  <img src="https://img.shields.io/github/forks/nbbb15092/abc?style=for-the-badge&logo=github&color=00CED1">
-  <img src="https://img.shields.io/github/issues/nbbb15092/abc?style=for-the-badge&logo=github&color=FF5733">
-  <img src="https://img.shields.io/github/contributors/nbbb15092/abc?style=for-the-badge&logo=github&color=8E44AD">
+  <img src="https://img.shields.io/github/stars/sandesissu7-collab/SANDES-MD-V2?style=for-the-badge&logo=github&color=FFD700">
+  <img src="https://img.shields.io/github/forks/sandesissu7-collab/SANDES-MD-V2?style=for-the-badge&logo=github&color=00CED1">
+  <img src="https://img.shields.io/github/issues/sandesissu7-collab/SANDES-MD-V2?style=for-the-badge&logo=github&color=FF5733">
+  <img src="https://img.shields.io/github/contributors//sandesissu7-collab/SANDES-MD-V2?style=for-the-badge&logo=github&color=8E44AD">
 </p>
 
 <!-- Fork & Session Buttons -->
